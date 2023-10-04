@@ -1,4 +1,4 @@
-We deeply appreciate any effort to discover and disclose security vulnerabilities responsibly.
+#We deeply appreciate any effort to discover and disclose security vulnerabilities responsibly.
 
 If you would like to report a vulnerability in one of our products, or have security concerns regarding BlockScout software, please email [security@blockscout.com](mailto:security@blockscout.com).
 
